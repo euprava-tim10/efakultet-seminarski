@@ -1,0 +1,66 @@
+\begin{thebibliography}{10}
+
+\bibitem{hibernate}
+Hibernate, 2023.
+\newblock Приступљено 25.5.2023.
+\newblock URL: \url{https://hibernate.org/}.
+
+\bibitem{oauth}
+Ed. D.~Hardt.
+\newblock The {OA}uth 2.0 {A}uthorization {F}ramework, 2012.
+\newblock Приступљено 31.5.2023.
+\newblock URL: \url{https://www.rfc-editor.org/rfc/rfc6749}.
+
+\bibitem{rbac}
+D.~Richard~Kuh David F.~Ferraiolo.
+\newblock Role-{B}ased {A}ccess {C}ontrols, 1992.
+\newblock Приступљено 31.5.2023.
+\newblock URL:
+  \url{https://www.researchgate.net/publication/24164143_Role-Based_Access_Controls}.
+
+\bibitem{rest}
+Roy~Thomas Fielding.
+\newblock Architectural {S}tyles and the {D}esign of {N}etwork-based {S}oftware
+  {A}rchitectures, 2000.
+\newblock Приступљено 31.5.2023.
+\newblock URL:
+  \url{https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm}.
+
+\bibitem{angular}
+Google.
+\newblock Angular, 2023.
+\newblock Приступљено 25.5.2023.
+\newblock URL: \url{https://angular.io/}.
+
+\bibitem{typescript}
+Microsoft.
+\newblock Type{S}cript, 2023.
+\newblock Приступљено 25.5.2023.
+\newblock URL: \url{https://www.typescriptlang.org/}.
+
+\bibitem{java}
+Oracle.
+\newblock Java, 2023.
+\newblock Приступљено 25.5.2023.
+\newblock URL: \url{https://www.java.com/}.
+
+\bibitem{mysql}
+Oracle.
+\newblock My{SQL}, 2023.
+\newblock Приступљено 25.5.2023.
+\newblock URL: \url{https://www.mysql.com/}.
+
+\bibitem{spring}
+Spring.
+\newblock Spring {F}ramework, 2023.
+\newblock Приступљено 25.5.2023.
+\newblock URL: \url{https://spring.io/}.
+
+\bibitem{abac}
+David F.~Ferraiolo Vincent C.~Hu, D. Richard~Kuhn.
+\newblock Attribute-{B}ased {A}ccess {C}ontrol, 2015.
+\newblock Приступљено 31.5.2023.
+\newblock URL:
+  \url{https://www.researchgate.net/publication/273393378_Attribute-Based_Access_Control}.
+
+\end{thebibliography}
