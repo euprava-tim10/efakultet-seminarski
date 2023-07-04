@@ -1,25 +1,25 @@
-This is BibTeX, Version 0.99d (TeX Live 2023/Arch Linux)
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: efakultet.aux
 The style file: plainurl.bst
-Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=8) to 20 items from 10.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: refs.bib
 Warning--to sort, need author or key in hibernate
 You've used 10 entries,
-            2943 wiz_defined-function locations,
-            678 strings with 6005 characters,
-and the built_in function-call counts, 3453 in all, are:
+            2882 wiz_defined-function locations,
+            667 strings with 5969 characters,
+and the built_in function-call counts, 3462 in all, are:
 = -- 364
 > -- 74
 < -- 0
 + -- 29
 - -- 18
-* -- 92
-:= -- 466
+* -- 102
+:= -- 465
 add.period$ -- 39
 call.type$ -- 10
 change.case$ -- 39
